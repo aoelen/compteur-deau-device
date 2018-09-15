@@ -1,5 +1,7 @@
 # Compteur-deau code
 
+_Tip: The landing page provides more information about the Compteur d'eau: https://aoelen.github.io/compteur-deau/_
+
 ## About Compteur d'eau
 The code in this repository is written for the _Compteur d'eau_ device. This is a low-cost water quality monitoring device, built to operate within an ICT4D context in rural Africa. The device is using the LinkIt One, which is based on the Arduino platform. In order to run the code in this repository, a LinkIt One is required. The Arduino IDE can be used to compile and install the software on the LinkIt One. A dashboard to view the sensor data has been developed in PHP and can be found via: https://github.com/aoelen/compteur-deau
 
